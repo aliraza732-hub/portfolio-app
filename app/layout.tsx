@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 // import { DM_Sans, DM_Mono, Playfair_Display } from "next/font/google";
 import "./globals.css";
 import SkipLink from "./components/SkipLink";
